@@ -1,4 +1,7 @@
-### Hi there 👋
+### 안녕하세요! 👋
+
+현재 항해99에서 열심히 공부하고 있습니다.
+잘 부탁드려요!👍👍👍👍👍
 
 <!--
 **hakseon-yoo/hakseon-yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
