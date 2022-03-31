@@ -1,5 +1,5 @@
 <p>
-  <a href='https://purrfect-position-e38.notion.site/HSYOO-Develoment-79a8d78046db4a47bf424c2d16077bc2'><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href='https://purrfect-position-e38.notion.site/HSYOO-Develoment-79a8d78046db4a47bf424c2d16077bc2'><img src="https://img.shields.io/badge/HSYOO Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 <p>
   안녕하세요! 👋<br />
