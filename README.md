@@ -7,11 +7,10 @@
   백엔드 개발자로 활동하고 있는 유학선입니다.<br />
   
   저는 여러번 열심히하는 개발자보단, 한번에 잘하는 개발자가 되고싶습니다.<br />
-  Back-end 기술과 DB 기술에 흥미와 관심이 있습니다. <br />
+  Back-end 기술과 DB 기술에 흥미와 관심이 있으며 현재는 <b>NestJS</b>를 주로 다루고 있습니다. <br />
   오늘도 내일도 꾸준히하는 습관을 가지려 노력 중 입니다.<br />
   
-  오늘도 좋은 하루 보내시길 바랍니다! 😎
-  
+  오늘도 좋은 하루 보내셨으면 좋겠습니다! 😎
 </p>
 
 <h3> 💻 Use Skills</h3>
@@ -44,7 +43,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/>
