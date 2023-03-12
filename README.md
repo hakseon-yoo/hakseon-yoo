@@ -14,27 +14,59 @@
   
 </p>
 
-<h3> 💻 Learn Skills</h3>
-<h4>Platforms & Languages</h4>
+<h3> 💻 Use Skills</h3>
+<h4>Framework & Languages</h4>
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+  <br />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeORM-000000?style=flat-square&logo=TypeORM&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <br />
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS ECS-FF9900?style=flat-square&logo=Amazon ECS&logoColor=white"/>
+  <br />
+  <img src="https://img.shields.io/badge/AWS CloudFront-blueviolet?style=flat-square&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS Route53-blueviolet?style=flat-square&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS Certificate Manager-red?style=flat-square&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS Secrets Manager-red?style=flat-square&logo=&logoColor=white"/>
+  
 </p>
 
-<h4>Tools </h4>
+<h4>Experience & Learn</h4>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+</p>
+
+<h4>Tools</h4>
 <p>
   <img src="https://img.shields.io/badge/VS CODE-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
 
-
+<h3> 💻 Persnal Info</h3>
+<p>
+  <li>Email: gkrtjs2020@gmail.com</li>
+  <li>Blog: https://dev-hsyoo.tistory.com</li>
+  <li>Portfolio: https://hsyoo-g.notion.site/PORTFOLIO-dac0f365d86944e3801807dd219c9719</li>
+</p>
 <!--
 **hakseon-yoo/hakseon-yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
