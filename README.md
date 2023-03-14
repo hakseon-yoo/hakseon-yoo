@@ -11,12 +11,6 @@
   오늘도 좋은 하루 보내셨으면 좋겠습니다! 😎
 </p>
 
-<div class="wrapper">
-  <div class="typing-demo">
-    This is a typing demo.
-  </div>
-</div>
-
 <h3> 💻 Use Skills</h3>
 <h4>Framework & Languages</h4>
 <p>
