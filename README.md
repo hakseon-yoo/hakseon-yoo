@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?text=백엔드%20개발자%20유학선입니다.&desc=소통과%20커뮤니케이션을%20사랑하는&fontColor=FFFFFF&fontSize=40&fontAlign=50&fontAlignY=45&descAlign=35&descAlignY=25&type=waving&color=0:7112FF,100:930013&height=200&animation=twinkling&section=header">
+<img width=100% src="https://capsule-render.vercel.app/api?text=백엔드%20개발자%20유학선입니다.&desc=%27소통%27과%20%27커뮤니케이션%27을%20사랑하는&fontColor=FFFFFF&fontSize=40&fontAlign=50&fontAlignY=45&descAlign=35&descAlignY=25&type=waving&color=0:7112FF,100:930013&height=200&animation=twinkling&section=header">
 <p>
   안녕하세요! 👋<br />
   방문해주셔서 감사합니다.<br />
