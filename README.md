@@ -1,13 +1,13 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0054FF&height=200&section=header)
+<img width=100% src="https://capsule-render.vercel.app/api?text=백엔드%20개발자%20유학선입니다.&desc=소통과%20커뮤니케이션을%20사랑하는&fontColor=FFFFFF&fontSize=40&fontAlign=50&fontAlignY=45&descAlign=35&descAlignY=25&type=waving&color=0:7112FF,100:930013&height=200&animation=twinkling&section=header">
 <p>
   안녕하세요! 👋<br />
   방문해주셔서 감사합니다.<br />
   백엔드 개발자로 활동하고 있는 유학선입니다.<br />
-  
+
   저는 여러번 열심히하는 개발자보단, 한번에 잘하는 개발자가 되고싶습니다.<br />
   Back-end 기술과 DB 기술에 흥미와 관심이 있으며 현재는 <b>NestJS</b>를 주로 다루고 있습니다. <br />
   오늘도 내일도 꾸준히하는 습관을 가지려 노력 중 입니다.<br />
-  
+
   오늘도 좋은 하루 보내셨으면 좋겠습니다! 😎
 </p>
 
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/AWS Route53-blueviolet?style=flat-square&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS Certificate Manager-red?style=flat-square&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS Secrets Manager-red?style=flat-square&logo=&logoColor=white"/>
-  
+
 </p>
 
 <h4>Experience & Learn</h4>
@@ -63,4 +63,4 @@
   <li>Blog: https://dev-hsyoo.tistory.com</li>
   <li>Portfolio: https://hsyoo-g.notion.site/PORTFOLIO-dac0f365d86944e3801807dd219c9719</li>
 </p>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0054FF&height=200&section=footer)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:7112FF,100:930013&height=100&section=footer&animation=twinkling">
