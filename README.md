@@ -64,8 +64,12 @@
   </div>
  
   <p>
-    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+    <a href="https://dev-hsyoo.tistory.com">
+      <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
+    </a>
+    <a href="https://hsyoo-g.notion.site/PORTFOLIO-dac0f365d86944e3801807dd219c9719">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+    </a>
   </p>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:7112FF,100:930013&height=100&section=footer">
