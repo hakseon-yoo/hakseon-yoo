@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?text=백엔드%20개발자%20유학선입니다.&desc=%27소통%27과%20%27커뮤니케이션%27을%20사랑하는&fontColor=FFFFFF&fontSize=40&fontAlign=50&fontAlignY=45&descAlign=35&descAlignY=25&type=waving&color=0:7112FF,100:930013&height=200&animation=twinkling&section=header">
 <div width=100% align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=800&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hi.;Welcome+%3A);I+work+as+a+backend+developer.;Thank+for+being+able+to+code.;Hope+you+have+good+luck." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=800&color=F7F7F7&center=true&vCenter=true&width=720&lines=Hi.;Welcome+%3A);I+work+as+a+backend+developer.;Thank+for+being+able+to+code.;Hope+you+have+good+luck." alt="Typing SVG" /></a>
 </div>
 <br />
 <div width=100% align="center">
