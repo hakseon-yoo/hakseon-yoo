@@ -1,6 +1,4 @@
-<p>
-  <a href='https://purrfect-position-e38.notion.site/HSYOO-Develoment-79a8d78046db4a47bf424c2d16077bc2'><img src="https://img.shields.io/badge/HSYOO Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0054FF&height=200&section=header)
 <p>
   안녕하세요! 👋<br />
   방문해주셔서 감사합니다.<br />
@@ -12,6 +10,12 @@
   
   오늘도 좋은 하루 보내셨으면 좋겠습니다! 😎
 </p>
+
+<div class="wrapper">
+  <div class="typing-demo">
+    This is a typing demo.
+  </div>
+</div>
 
 <h3> 💻 Use Skills</h3>
 <h4>Framework & Languages</h4>
@@ -65,17 +69,4 @@
   <li>Blog: https://dev-hsyoo.tistory.com</li>
   <li>Portfolio: https://hsyoo-g.notion.site/PORTFOLIO-dac0f365d86944e3801807dd219c9719</li>
 </p>
-<!--
-**hakseon-yoo/hakseon-yoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0054FF&height=200&section=footer)
