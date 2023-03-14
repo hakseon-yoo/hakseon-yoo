@@ -1,4 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?text=백엔드%20개발자%20유학선입니다.&desc=%27소통%27과%20%27커뮤니케이션%27을%20사랑하는&fontColor=FFFFFF&fontSize=40&fontAlign=50&fontAlignY=45&descAlign=35&descAlignY=25&type=waving&color=0:7112FF,100:930013&height=200&animation=twinkling&section=header">
+<div width=100% align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Hello+World!;Welcome+%3A)" alt="Typing SVG" /></a>
+</div>
 <p>
   안녕하세요! 👋<br />
   방문해주셔서 감사합니다.<br />
