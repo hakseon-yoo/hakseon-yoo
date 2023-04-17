@@ -21,11 +21,11 @@
     <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS ECS-FF9900?style=for-the-badge&logo=Amazon ECS&logoColor=white"/>
-    <br />
-    <img src="https://img.shields.io/badge/AWS CloudFront-blueviolet?style=for-the-badge&logo=&logoColor=white"/>
+<!--     <br /> -->
+<!--     <img src="https://img.shields.io/badge/AWS CloudFront-blueviolet?style=for-the-badge&logo=&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS Route53-blueviolet?style=for-the-badge&logo=&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS Certificate Manager-red?style=for-the-badge&logo=&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS Secrets Manager-red?style=for-the-badge&logo=&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS Secrets Manager-red?style=for-the-badge&logo=&logoColor=white"/> -->
   </p>
   
   <h4>Experience & Learn</h4>
